@@ -15,7 +15,7 @@ The datase consists of the following sheets:
 * customers: details of customers including customer id, customer name, email, Phone number, Address, City, Country.
 * products: Here, all the details of the products have been recorded including Product ID, Coffee Type, Roast Type, size, Unit Price.
 
-## Key Fields
+### Key Fields
 * Order Date
 * Country
 * Coffee Type & Roast Type
