@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes coffee sales data to understand product performance, customer behaviour, and country-wise sales trend using Excel to provide a clear business insight.
 
-##Objective
+## Objective
 * Analyse Total Sales By Country
 * Identify Top 5 Customers
 * Analyse Sales Trend Over Time
