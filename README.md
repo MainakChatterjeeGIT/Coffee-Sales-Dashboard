@@ -43,7 +43,7 @@ The datase consists of the following sheets:
 * Customers with loyalty cards tend to place higher-value orders.
 
 ## Dashboard Preview
-![Dashboard]([Coffee-Sales-Dashboard.jpg](https://github.com/MainakChatterjeeGIT/Coffee-Sales-Dashboard/blob/main/Coffee-Sales-Dashboard.jpg))
+![Dashboard](Coffee-Sales-Dashboard.png)
 
 ## Conclusion
 This analysis highlights key revenue drivers in coffee sales and demonstrates how Excel can be used effectively for end-to-end data analysis and dashboarding. The insights can help businesses focus on high-performing markets, products, and customer segments.
